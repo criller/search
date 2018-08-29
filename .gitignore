@@ -23,3 +23,6 @@
 hs_err_pid*
 /.idea/
 /search.iml
+search-core/src/main/resources/static/
+search-core/src/main/resources/templates/
+searchapi/src/
